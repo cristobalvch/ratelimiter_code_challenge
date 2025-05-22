@@ -4,8 +4,8 @@ This repository contains a configurable rate limiter using the Token Bucket algo
 
 This project includes:
 - Dynamic rate limit updates via HTTP API
-- CLI configuration via `argparse`
-- Bash scripts for testing and interacting with the server
+- CLI configuration via `argparse` in Python script
+- Bash script for testing and interacting with the server
 
 
 ## 📦 Requirements
